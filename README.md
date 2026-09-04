@@ -18,8 +18,8 @@ El codigo sigue una estricta separacion de responsabilidades en archivos indepen
 
 ```bash
 git clone <TU_ENLACE_DE_GITHUB_ACA>
-cd Gestion_Libros```
-
+cd Gestion_Libros
+```
 2. Crear y activar el entorno virtual
 
 # Crear el entorno
