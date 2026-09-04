@@ -20,25 +20,23 @@ El codigo sigue una estricta separacion de responsabilidades en archivos indepen
 git clone <TU_ENLACE_DE_GITHUB_ACA>
 cd Gestion_Libros
 ```
-2. Crear y activar el entorno virtual
+## 2. Crear y activar el entorno virtual
 
-# Crear el entorno
+Crear el entorno:
 uv venv
 
-# Activar el entorno (Windows)
+Activar el entorno (Windows):
 .venv\Scripts\activate
 
-# Activar el entorno (Linux/macOS)
+Activar el entorno (Linux/macOS):
 source .venv/bin/activate
 
+## 3. Instalar las dependencias
 
-3. Instalar las dependencias
-
-# Instalar las librerias especificadas en el archivo de requerimientos
+Instalar las librerias especificadas en el archivo de requerimientos:
 uv pip install -r requirements.txt
 
-
-4. Ejecutar la aplicación
+## 4. Ejecutar la aplicación
 
 #Para iniciar el servidor, ejecuta el siguiente comando en la terminal
 python main.py
