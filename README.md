@@ -23,22 +23,27 @@ cd Gestion_Libros
 ## 2. Crear y activar el entorno virtual
 
 Crear el entorno:
+```bash
 uv venv
-
+```
 Activar el entorno (Windows):
+```bash
 .venv\Scripts\activate
-
+```
 Activar el entorno (Linux/macOS):
+```bash
 source .venv/bin/activate
-
+```
 ## 3. Instalar las dependencias
 
 Instalar las librerias especificadas en el archivo de requerimientos:
+```bash
 uv pip install -r requirements.txt
-
+```
 ## 4. Ejecutar la aplicación
 
-#Para iniciar el servidor, ejecuta el siguiente comando en la terminal
+Para iniciar el servidor, ejecuta el siguiente comando en la terminal:
+```bash
 python main.py
-
-#La aplicación web se abrirá automáticamente en tu navegador predeterminado (por lo general en http://localhost:8080
+```
+La aplicación web se abrirá automáticamente en tu navegador predeterminado (por lo general en http://localhost:8080
