@@ -46,4 +46,4 @@ Para iniciar el servidor, ejecuta el siguiente comando en la terminal:
 ```bash
 python main.py
 ```
-La aplicación web se abrirá automáticamente en tu navegador predeterminado (por lo general en http://localhost:8080
+La aplicación web se abrirá automáticamente en tu navegador predeterminado
